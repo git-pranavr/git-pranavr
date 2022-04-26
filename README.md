@@ -26,6 +26,7 @@
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/json.png" />
     <img src="https://img.icons8.com/color/48/000000/python.png" />
     <img src="https://img.icons8.com/color/48/000000/java.png" />
     <img src="https://i.stack.imgur.com/irUrQ.png" style="height: 48px; width: 48px" />
