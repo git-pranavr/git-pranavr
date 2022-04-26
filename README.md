@@ -18,17 +18,18 @@
 
 ## 🚀 Languages and Tools:
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left">
-
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left">
-
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="left">
-
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="left">
-
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="left">
-
-<img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" align="left">
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</p>
 
 <br />
 <br />
