@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **contact.pranavr@gmail.com**
 
-- 🔭 Know more about me: **[Portfolio]()**
+- 🔭 Know more about me: **[Portfolio](http://pranavr-portfolio.netlify.app/)**
 
 ## 🚀 Languages and Tools:
 
