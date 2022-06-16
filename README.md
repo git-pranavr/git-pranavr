@@ -56,6 +56,8 @@
 <br/>
 <br/>
 
+![](https://github.com/git-pranavr/git-pranavr/blob/output/github-contribution-grid-snake.svg)
+
 ## Connect with me:
 <p align="left">
 
